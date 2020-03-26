@@ -1,7 +1,7 @@
 # Semana OmniStack 11.0 - Be The Hero
 
 <h1 align="center">
-    <img alt="OmniStack 11" title="#OmniStack 11" src=".github/wallpapers/Wallpaper-OmniStack-11-1920x1080.jpg" width="600px" />
+    <img src="./frontend/src/assets/logo.svg" width="600">
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@ Be The Hero é um projeto que visa conectar pessoas que queiram ajudar ONGs.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org) 🚧
+- [React](https://reactjs.org) 
 - [React Native](https://facebook.github.io/react-native/) 🚧
 - [Expo](https://expo.io/) 🚧
 
