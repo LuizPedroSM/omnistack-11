@@ -18,7 +18,6 @@
     <img alt="Made by luizpedrosm" src="https://img.shields.io/badge/made%20by-luizpedrosm-blue">
   </a>
 
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
@@ -26,14 +25,42 @@
 
 Be The Hero é um projeto que visa conectar pessoas que queiram ajudar ONGs.
 
+## 📷 Imagens
+
+### 🖥️ Desktop
+
+<h1 align="center">
+    <img alt="Login" title="Login" src=".github/images/desktop/Login.png" width="600px" />
+</h1>
+
+<h1 align="center">
+    <img alt="Cadastro" title="Cadastro" src=".github/images/desktop/Cadastro.png" width="600px" />
+</h1>
+
+<h1 align="center">
+    <img alt="Lista" title="Lista" src=".github/images/desktop/Lista.png" width="600px" />
+</h1>
+
+### 📱 Mobile
+
+<p align="center">
+    <img alt="Login" title="Login" src=".github/images/mobile/Splash.png" width="45%" />
+    <img alt="Detalhes" title="Detalhes" src=".github/images/mobile/Detalhes.png" width="45%" />
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org) 
-- [React Native](https://facebook.github.io/react-native/) 🚧
-- [Expo](https://expo.io/) 🚧
+-   [Node.js](https://nodejs.org/en/)
+-   [React](https://reactjs.org)
+-   [React Native](https://facebook.github.io/react-native/)
+-   [Expo](https://expo.io/)
 
 ## 📝 Licença
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com 💜 por Luiz Pedro: 👋 [Entre em contato](https://www.linkedin.com/in/luizpedrosm/)
